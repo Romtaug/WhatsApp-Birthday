@@ -44,27 +44,8 @@ def wait_for_internet():
 
 # Liste des contacts et leurs dates d'anniversaire
 contacts = [  # Format MM-DD
-    {"nom": "Afzal", "numéro": "+33778400427", "date_anniversaire": "02-19"},
-    {"nom": "Alexis", "numéro": "+33750457617", "date_anniversaire": "06-10"},
-    {"nom": "Astrid", "numéro": "+33631637968", "date_anniversaire": "10-07"},
-    {"nom": "Ilan", "numéro": "+33615116350", "date_anniversaire": "01-20"},
-    {"nom": "Max", "numéro": "+33782326928", "date_anniversaire": "01-16"},
-    {"nom": "Nathan", "numéro": "+33758452431", "date_anniversaire": "05-16"},
-    {"nom": "Paul", "numéro": "+33761920278", "date_anniversaire": "10-16"},
-    {"nom": "Papa", "numéro": "+33662474179", "date_anniversaire": "12-16"},
-    {"nom": "Julie", "numéro": "+33695994489", "date_anniversaire": "08-26"},
-    {"nom": "Thibault", "numéro": "+33665144250", "date_anniversaire": "09-07"},
-    {"nom": "Ian", "numéro": "+33669201270", "date_anniversaire": "06-19"},
-    {"nom": "Marco", "numéro": "+33670136415", "date_anniversaire": "03-10"},
-    {"nom": "Ritchi", "numéro": "+33649822365", "date_anniversaire": "05-27"},
-    {"nom": "Damien", "numéro": "+33658994568", "date_anniversaire": "06-24"},
-    {"nom": "Romain", "numéro": "+33782740058", "date_anniversaire": "01-10"},
-    {"nom": "Gaelle", "numéro": "+33673492853", "date_anniversaire": "02-26"},
-    {"nom": "Lucie", "numéro": "+33783665921", "date_anniversaire": "04-27"},
-    {"nom": "Felix", "numéro": "+33767822282", "date_anniversaire": "04-27"},
-    {"nom": "Maman", "numéro": "+3365231150", "date_anniversaire": "05-14"},
-    {"nom": "Sam", "numéro": "+33767468433", "date_anniversaire": "12-13"},
-    # Ajoutez d'autres contacts ici
+    {"nom": "Afzal", "numéro": "+33778404427", "date_anniversaire": "02-19"},
+    {"nom": "Alexis", "numéro": "+33750417617", "date_anniversaire": "06-10"},
 ]
 
 # Obtenir la date d'aujourd'hui au format MM-DD
